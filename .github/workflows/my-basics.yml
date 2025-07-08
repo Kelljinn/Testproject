@@ -1,6 +1,6 @@
 # GitHub Actions -Basics
 #----------------------
-name: My GitHub Action-Basics
+name: My-GitHub-Action-Basics
 
 on:
   push:
